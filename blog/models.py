@@ -5,6 +5,7 @@ from django.db import models
 from django.contrib.auth.models import User
 import django.utils.six
 # 导入 reverse 函数
+#from django.urls import reverse
 from django.urls import reverse
 
 

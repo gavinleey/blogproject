@@ -21,5 +21,5 @@ urlpatterns = [
     url(r'', include('blog.urls')),
     url(r'^admin/', admin.site.urls),
     url(r'', include('comments.urls')),
-    url(r'^plugin/', include('blog.urls')),
+    #url(r'^plugin/', include('blog.urls')),
 ]
