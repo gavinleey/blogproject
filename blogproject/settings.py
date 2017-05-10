@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'blog.apps.BlogConfig',  # 'blog'
     'comments.apps.CommentsConfig',  # 'comments
-    # 'blog',
+    'blog',
     'markdown',
     # 'markdown2',
     'pygments',
