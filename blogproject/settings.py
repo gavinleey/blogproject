@@ -44,7 +44,6 @@ INSTALLED_APPS = [
     'markdown',
     # 'markdown2',
     'pygments',
-    'gunicorn',
 ]
 
 MIDDLEWARE = [
